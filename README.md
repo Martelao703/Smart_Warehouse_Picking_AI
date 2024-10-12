@@ -1,6 +1,6 @@
 ## Overview:
 
-- This app, made in Python, aims to optimize product picking in warehouses using AI with genetic and search algorithms.
+- This app, made in Python, aims to optimize product picking in warehouses by forklifts using AI with genetic and search algorithms.
   
 - The AI model is capable of analyzing the layout of the warehouse and the position of the items to be picked up by the agents (forklifts). It then calculates the most efficient way of picking up the list of items.
   
