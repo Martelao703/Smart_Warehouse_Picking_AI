@@ -1,0 +1,28 @@
+
+Population size: 100
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Insert Mutation (0.1)
+Fitness: 67
+[23, 6, 1, 2, 8, 13, 12, 14, 24, 0, 5, 3, 10, 17, 15, 25, 11, 16, 19, 4, 7, 9, 18]
+
+Max steps: 64
+Collisions: 3
+
+
+# --------------------------------------------------------------
+
+Population size: 100
+Max generations: 100
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.7)
+Mutation:Insert Mutation (0.1)
+Fitness: 54
+[23, 4, 9, 3, 2, 6, 8, 25, 13, 12, 15, 14, 11, 16, 10, 17, 19, 24, 1, 5, 0, 7, 18]
+
+Max steps: 54
+Collisions: 0
+
+
+# --------------------------------------------------------------
